@@ -1,0 +1,23 @@
+{
+  "name": "resume-template",
+  "version": "1.0.0",
+  "description": "## usage",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankFan/resume-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankFan/resume-template/issues"
+  },
+  "homepage": "https://github.com/FrankFan/resume-template#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
