@@ -7,3 +7,5 @@ $ npm i
 
 $ npm start
 ```
+
+![./imgs/screenshot.png]()
