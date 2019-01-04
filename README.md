@@ -8,4 +8,4 @@ $ npm i
 $ npm start
 ```
 
-![./imgs/screenshot.png]()
+![1](/src/imgs/screenshot.png)
